@@ -1,3 +1,0 @@
-drone0 - Pixhawk drone
-drone1 - Dji phantom
-drone2 - Dji mavic
